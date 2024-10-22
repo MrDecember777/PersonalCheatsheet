@@ -13,10 +13,13 @@ p {
 
 .links {
     text-align: center;
-    list-style-type: none;
     display: inline-block;
-    margin: 0 auto;
+    font-size: 20px;
+    padding: 7px 4px;
+    margin-right: 5px;
+    color: black;
 }
+
 
 ul {
     text-align: center;
@@ -33,9 +36,10 @@ thead {
 }
 
 td {
-    background-color: #D3D3D370;
+    background-color: #D3D3D3;
 }
 
 * {
     font-family: Tahoma;
 }
+
