@@ -9,6 +9,7 @@ p {
     text-align: center;
     font-size: large;
     text-decoration: underline;
+    color: white;
 }
 
 .links {
@@ -45,4 +46,9 @@ th {
 
 * {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    background-color: #1f1e1e;
+
 }
